@@ -21,5 +21,9 @@ sections:
       title: Discover
       url: /store
       style: secondary
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    featured_categories: []
+    type: featured_categories_section
 template: store
 ---
