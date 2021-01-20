@@ -1,6 +1,6 @@
 ---
 id: '1'
-title: Nulla suscipit
+title: Zesta do uprawy ziół Kuchnia Włoska
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
   lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
